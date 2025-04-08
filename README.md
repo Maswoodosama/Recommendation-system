@@ -53,12 +53,6 @@ string ("tags")
 
 Lowercase conversion and whitespace removal
 
-4. Tag Creation
-
-Combine all relevant text fields into a single string ("tags")
-
-Lowercase conversion and whitespace removal
-
 5. Text Vectorization
 
 Use CountVectorizer from scikit-learn to convert 
